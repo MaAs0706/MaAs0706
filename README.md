@@ -9,10 +9,11 @@
 ---
 
 ##  Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** HTML, CSS, JavaScript,React  
 - **Backend:** Node.js  
 - **Languages:** Python, JavaScript  
-- **Tools:** Git, GitHub  
+- **Tools:** Git, GitHub
+- **Automation:** n8n
 
 ---
 
