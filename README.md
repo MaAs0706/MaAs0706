@@ -33,8 +33,8 @@ When I'm not writing code, I'm writing words. I run a personal poetry and prose 
 > `Python` · `Streamlit` · `Google Maps API` · [Live on Streamlit Cloud](https://maps-scrapper-hjwgmxj6crp4uueis8nrgi.streamlit.app/)
 
 ### 🌍 AtmosTrack *(FossHack)*
-> Hyperlocal air quality decision system for Kerala. Estimates AQI between monitoring stations using IDW interpolation, forecasts trends with Facebook Prophet, overlays everything on OpenStreetMap.[LINK TO REPO]
-> `FastAPI` · `React` · `Leaflet.js` · `WAQI API` · `Facebook Prophet`
+> Hyperlocal air quality decision system for Kerala. Estimates AQI between monitoring stations using IDW interpolation, forecasts trends with Facebook Prophet, overlays everything on OpenStreetMap.
+> `FastAPI` · `React` · `Leaflet.js` · `WAQI API` · `Facebook Prophet` [LINK TO REPO](https://github.com/MaAs0706/FossHack)
 
 ### 🔍 CV Roaster
 > Brutally honest AI resume feedback — built with Groq API and Llama 3.3.  
