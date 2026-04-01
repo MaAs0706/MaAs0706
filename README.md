@@ -30,10 +30,10 @@ When I'm not writing code, I'm writing words. I run a personal poetry and prose 
 
 ### 🗺️ Prospera
 > A Google Maps lead-generation tool built for freelance web designers — finds local businesses without websites so designers can pitch them directly. Tested by a freelance designer in active client outreach.  
-> `Python` · `Streamlit` · `Google Maps API` · [Live on Streamlit Cloud](https://github.com/MaAs0706)
+> `Python` · `Streamlit` · `Google Maps API` · [Live on Streamlit Cloud](https://maps-scrapper-hjwgmxj6crp4uueis8nrgi.streamlit.app/)
 
 ### 🌍 AtmosTrack *(FossHack)*
-> Hyperlocal air quality decision system for Kerala. Estimates AQI between monitoring stations using IDW interpolation, forecasts trends with Facebook Prophet, overlays everything on OpenStreetMap.  
+> Hyperlocal air quality decision system for Kerala. Estimates AQI between monitoring stations using IDW interpolation, forecasts trends with Facebook Prophet, overlays everything on OpenStreetMap.[LINK TO REPO]
 > `FastAPI` · `React` · `Leaflet.js` · `WAQI API` · `Facebook Prophet`
 
 ### 🔍 CV Roaster
