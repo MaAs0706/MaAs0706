@@ -1,21 +1,98 @@
-# 💫 About Me:
- Building tech-driven projects around digital literacy, AI-powered tools, and real-world problem solving — including a habit tracker app and a women’s safety app developed through hackathons and independent initiatives.<br>. I’m looking to collaborate on Hackathons, open-source projects, AI/ML ideas, web apps, and platforms that create real social impact.<br>. I’m looking for help with System design, scalable backends, and leveling up my AI/ML implementation skills.<br>. I’m currently learning Data structures & algorithms, full-stack web development, AI fundamentals, and how to turn ideas into production-ready products.<br>. Ask me about Hackathons,  project leadership, frontend basics, or breaking down tech concepts for beginners.<br>. Fun fact I love teaching tech almost as much as building it — and I’ve led teams both on the field and in code.
+<!-- Header -->
+<div align="center">
 
+```
+╔═══════════════════════════════════════════════════════╗
+║   aswanth madhav  ·  builder  ·  cs sophomore @ mec  ║
+╚═══════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aswanth-madhav-323992322/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aswanthmadhav07@gmail.com) 
+*I ship things. Sometimes they break. Then I fix them and ship again.*
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MaAs0706&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MaAs0706&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaAs0706&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/-aswanth--madhav-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswanth-madhav-323992322/)
+[![Email](https://img.shields.io/badge/-aswanthmadhav07@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aswanthmadhav07@gmail.com)
+[![GitHub](https://img.shields.io/badge/-MaAs0706-181717?style=flat&logo=github&logoColor=white)](https://github.com/MaAs0706)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MaAs0706&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MaAs0706&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I'm about
+
+Second-year CS student at **Model Engineering College, Kochi**.  
+I build real things — not tutorial clones. Projects that solve actual problems for actual people.
+
+When I'm not writing code, I'm writing words. I run a personal poetry and prose site, mentor at hackathons, and think a lot about why people do what they do.
+
+---
+
+## Things I've built
+
+### 🗺️ Prospera
+> A Google Maps lead-generation tool built for freelance web designers — finds local businesses without websites so designers can pitch them directly. Tested by a freelance designer in active client outreach.  
+> `Python` · `Streamlit` · `Google Maps API` · [Live on Streamlit Cloud](https://github.com/MaAs0706)
+
+### 🌍 AtmosTrack *(FossHack)*
+> Hyperlocal air quality decision system for Kerala. Estimates AQI between monitoring stations using IDW interpolation, forecasts trends with Facebook Prophet, overlays everything on OpenStreetMap.  
+> `FastAPI` · `React` · `Leaflet.js` · `WAQI API` · `Facebook Prophet`
+
+### 🔍 CV Roaster
+> Brutally honest AI resume feedback — built with Groq API and Llama 3.3.  
+> `Python` · `Groq API` · `Llama 3.3`
+
+### 🛡️ Niva *(in progress)*
+> Women's safety app with behavioral distress detection — accelerometer patterns, scream detection via TensorFlow Lite, GPS deviation alerts. Validated at a Kerala Startup Mission event.  
+> `Flutter` · `TensorFlow Lite` · `Firebase`
+
+### 🏫 NearU *(building)*
+> Hyperlocal discovery platform for college students. Nearby PGs, restaurants, pharmacies, barbers — all curated and real. Starting with one campus MVP before writing a single line of code.
+
+---
+
+## Stack
+
+```
+Languages    →  Python · JavaScript · TypeScript · C · C++
+Frontend     →  React · HTML/CSS · TailwindCSS
+Backend      →  FastAPI · Node.js
+Databases    →  MySQL · Supabase · Firebase
+Infra        →  Docker · Vercel · Render · Streamlit Cloud
+Currently    →  DSA · Scalable system design · AI/ML implementation
+```
+
+---
+
+## Github
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=MaAs0706&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaAs0706&theme=dark&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## Currently
+
+- 🔨 Building **NearU** — pre-launch, collecting real listings before writing code
+- 📚 Learning DSA and leveling up backend architecture
+- ✍️ Writing on Medium + maintaining my poetry site *"Words I Kept for You"*
+- 🤝 Looking for internships in full-stack or mobile development
+
+---
+
+## Open to
+
+Hackathons · Open-source collabs · AI/ML ideas that solve real problems · Startups that are still in the "figuring it out" phase
+
+If you're building something and need someone who can own a feature end-to-end and also explain it clearly to non-technical teammates — let's talk.
+
+---
+
+<div align="center">
+
+*"I love teaching tech almost as much as I love building it."*
+
+</div>
