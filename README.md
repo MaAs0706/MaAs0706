@@ -20,7 +20,7 @@
 ## What I'm about
 
 Second-year CS student at **Model Engineering College, Kochi**.  
-I build real things — not tutorial clones. Projects that solve actual problems for actual people.
+I build real things  not tutorial clones. Projects that solve actual problems for actual people.
 
 When I'm not writing code, I'm writing words. I run a personal poetry and prose site, mentor at hackathons, and think a lot about why people do what they do.
 
