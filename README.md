@@ -28,23 +28,23 @@ When I'm not writing code, I'm writing words. I run a personal poetry and prose 
 
 ## Things I've built
 
-### 🗺️ Prospera
+###  Prospera
 > A Google Maps lead-generation tool built for freelance web designers — finds local businesses without websites so designers can pitch them directly. Tested by a freelance designer in active client outreach.  
 > `Python` · `Streamlit` · `Google Maps API` · [Live on Streamlit Cloud](https://maps-scrapper-hjwgmxj6crp4uueis8nrgi.streamlit.app/)
 
-### 🌍 AtmosTrack *(FossHack)*
+###  AtmosTrack *(FossHack)*
 > Hyperlocal air quality decision system for Kerala. Estimates AQI between monitoring stations using IDW interpolation, forecasts trends with Facebook Prophet, overlays everything on OpenStreetMap.
 > `FastAPI` · `React` · `Leaflet.js` · `WAQI API` · `Facebook Prophet` [Github](https://github.com/MaAs0706/FossHack)
 
-### 🔍 CV Roaster
+###  CV Roaster
 > Brutally honest AI resume feedback — built with Groq API and Llama 3.3.  
 > `Python` · `Groq API` · `Llama 3.3`
 
-### 🛡️ Niva *(in progress)*
+###  Niva *(in progress)*
 > Women's safety app with behavioral distress detection — accelerometer patterns, scream detection via TensorFlow Lite, GPS deviation alerts. Validated at a Kerala Startup Mission event.  
 > `Flutter` · `TensorFlow Lite` · `Firebase`
 
-### 🏫 NearU *(building)*
+###  NearU *(building)*
 > Hyperlocal discovery platform for college students. Nearby PGs, restaurants, pharmacies, barbers — all curated and real. Starting with one campus MVP before writing a single line of code.
 
 ---
@@ -76,10 +76,10 @@ Currently    →  DSA · Scalable system design · AI/ML implementation
 
 ## Currently
 
-- 🔨 Building **NearU** — pre-launch, collecting real listings before writing code
-- 📚 Learning DSA and leveling up backend architecture
-- ✍️ Writing on Medium + maintaining my poetry site *"Words I Kept for You"*
-- 🤝 Looking for internships in full-stack or mobile development
+-  Building **NearU** — pre-launch, collecting real listings before writing code
+-  Learning DSA and leveling up backend architecture
+-  Writing on Medium + maintaining my poetry site *"Words I Kept for You"*
+-  Looking for internships in full-stack or mobile development
 
 ---
 
