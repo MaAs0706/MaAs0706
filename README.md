@@ -34,7 +34,7 @@ When I'm not writing code, I'm writing words. I run a personal poetry and prose 
 
 ###  AtmosTrack *(FossHack)*
 > Hyperlocal air quality decision system for Kerala. Estimates AQI between monitoring stations using IDW interpolation, forecasts trends with Facebook Prophet, overlays everything on OpenStreetMap.
-> `FastAPI` · `React` · `Leaflet.js` · `WAQI API` · `Facebook Prophet` [Github](https://github.com/MaAs0706/FossHack)
+> `FastAPI` · `React` · `Leaflet.js` · `WAQI API` ·  [Github](https://github.com/MaAs0706/FossHack)
 
 ###  CV Roaster
 > Brutally honest AI resume feedback — built with Groq API and Llama 3.3.  
@@ -42,7 +42,7 @@ When I'm not writing code, I'm writing words. I run a personal poetry and prose 
 
 ###  Niva *(in progress)*
 > Women's safety app with behavioral distress detection — accelerometer patterns, scream detection via TensorFlow Lite, GPS deviation alerts. Validated at a Kerala Startup Mission event.  
-> `Flutter` · `TensorFlow Lite` · `Firebase`
+
 
 ###  NearU *(building)*
 > Hyperlocal discovery platform for college students. Nearby PGs, restaurants, pharmacies, barbers — all curated and real. Starting with one campus MVP before writing a single line of code.
