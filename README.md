@@ -40,9 +40,6 @@ When I'm not writing code, I'm writing words. I run a personal poetry and prose 
 > Brutally honest AI resume feedback — built with Groq API and Llama 3.3.  
 > `Python` · `Groq API` · `Llama 3.3`
 
-###  Niva *(in progress)*
-> Women's safety app with behavioral distress detection — accelerometer patterns, scream detection via TensorFlow Lite, GPS deviation alerts. Validated at a Kerala Startup Mission event.  
-
 
 ###  NearU *(building)*
 > Hyperlocal discovery platform for college students. Nearby PGs, restaurants, pharmacies, barbers — all curated and real. Starting with one campus MVP before writing a single line of code.
