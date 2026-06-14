@@ -64,7 +64,7 @@ Currently    →  DSA · Scalable system design · AI/ML implementation
 <div align="center">
 
 ![Stats](https://github-readme-stats.shion.dev/api?username=MaAs0706&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MaAs0706&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=MaAs0706&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
